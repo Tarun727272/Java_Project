@@ -17,7 +17,7 @@ public class GreaterSmaller{
   }else{
       System.out.println(c+" is larger");
     }
-    
+  }
   public static void smallerNum(int a,int b,int c){
      if(a<b && a<c){
       System.out.println(a+" is smaller");
